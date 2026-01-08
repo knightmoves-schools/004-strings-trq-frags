@@ -1,10 +1,14 @@
 ﻿namespace knightmoves;
 public class JobOpenings
 {   
-    // Add your code here
+    public string FirstName = "Jacob";
+
+    public string JobTitle = "Manager";
+
+    public string City = "Pittsburg";
 
     public string PrintOpening(){
-        //Add your code here
-        return "";
+
+        return "PrintOpening";
     }
 }
